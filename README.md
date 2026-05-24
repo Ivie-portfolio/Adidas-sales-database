@@ -13,7 +13,7 @@ This project analysis is sales performance of a sports brand. it explores total 
 - How to create simple dashboards
 
 ## Preview
-https://github.com/Ivie-portfolio/Adidas-sales-database/commit/83daf52588c985d9ef161b39ec8f2fee8be4e601
+https://github.com/Ivie-portfolio/Adidas-sales-database/blob/main/Screenshot%20(9).png)
 
 > Click the image above to see a preview of the final dashboard.
 > # Adidas sales database
